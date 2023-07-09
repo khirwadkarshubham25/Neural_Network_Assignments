@@ -1,1 +1,3 @@
-# Neural_Network_Assignments
+# Neural Network Assignments
+
+Course: CSE 5368 - Neural Networks
